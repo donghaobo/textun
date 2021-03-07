@@ -1,5 +1,5 @@
 # textun
-like ssh tunnel, `ssh -L 8888:127.0.0.1:22 xxxx`
+like ssh tunnel, `ssh -L 8888:127.0.0.1:80 xxxx`
 
 some ssh relay server does not enable ssh tunnel, and MUST login first.
 
